@@ -1,0 +1,6 @@
+C:\Users\dex02\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\dex02\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\dex02\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\dex02\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\dex02\source\repos\Menu\Menu\obj\Debug\Menu.pdb
